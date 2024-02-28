@@ -1,0 +1,5 @@
+This Python project conducts a statistical analysis on Football World Championships data, ranging from 1930 to the present. The dataset contains key details like the _host country_, _winner_, _runner-up_, _third_ and _fourth-place countries_, _total goals scored_, _number of participating teams_, _total games played_, and _spectator attendance_.
+
+Using the `pandas` library, the project processes the dataset in csv format. Hypotheses are established to guide the analysis, and various metrics are computed using Pandas. The computations include different types of averages and the determination of minimum and maximum frequencies for certain attributes. A new column is added to the original table based on a newly established criterion.
+
+We used `matplotlib` to create a linear graph, bar chart, and pie chart to visually present the findings. These visualizations validate the conclusions drawn from the calculated statistics, offering a thorough understanding of the trends and patterns in the Football World Championships dataset.
